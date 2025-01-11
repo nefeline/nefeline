@@ -45,7 +45,7 @@ With deep experience in major e-commerce platforms, I specialize in creating sea
 </tr>
 </table>
 
-## Current Projects
+<!-- ## Current Projects
 
 Innovation drives my current work as I develop solutions that enhance the e-commerce experience through advanced technology and data-driven approaches.
 
@@ -83,8 +83,8 @@ const technicalJourney = {
     }
 }
 ```
-
-## ⚡ Professional Commitment
+-->
+## Professional Commitment
 
 I believe in the perfect blend of technical excellence and business acumen. Whether it's optimizing a checkout flow or implementing AI-driven marketing solutions, I'm passionate about creating e-commerce experiences that drive real business growth.
 
