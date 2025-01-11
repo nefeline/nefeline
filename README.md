@@ -7,12 +7,12 @@ Crafting exceptional e-commerce experiences as a Senior Software Engineer. I spe
 ## Tech Stack
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 My foundation is built on modern web development technologies, allowing me to create robust, scalable applications. I leverage these tools to deliver high-performance solutions that meet complex business requirements.
 
 </td>
-<td width="40%">
+<td width="50%">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -35,12 +35,12 @@ My foundation is built on modern web development technologies, allowing me to cr
 ## E-commerce Expertise
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 With deep experience in major e-commerce platforms, I specialize in creating seamless online shopping experiences. My expertise spans custom theme development, third-party integrations, and performance optimization across various e-commerce ecosystems.
 
 </td>
-<td width="40%">
+<td width="50%">
 
 [![Shopify](https://img.shields.io/badge/shopify-8DB543?logo=Shopify&logoColor=white)](https://www.shopify.com/)
 [![Liquid](https://img.shields.io/badge/liquid-7AB55C?logo=shopify&logoColor=white)](https://shopify.dev/docs/api/liquid)
