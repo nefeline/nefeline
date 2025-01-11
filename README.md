@@ -15,12 +15,18 @@ My foundation is built on modern web development technologies, allowing me to cr
 <td width="40%">
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/docs.php)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Remix](https://img.shields.io/badge/Remix-000000?logo=remix&logoColor=white)](https://remix.run/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![WordPress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 </td>
 </tr>
@@ -38,7 +44,7 @@ With deep experience in major e-commerce platforms, I specialize in creating sea
 
 [![Shopify](https://img.shields.io/badge/shopify-8DB543?logo=Shopify&logoColor=white)](https://www.shopify.com/)
 [![Liquid](https://img.shields.io/badge/liquid-7AB55C?logo=shopify&logoColor=white)](https://shopify.dev/docs/api/liquid)
-[![WordPress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![Hydrogen](https://img.shields.io/badge/Hydrogen-050B1B?logo=shopify&logoColor=white)](https://hydrogen.shopify.dev/)
 [![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
 
 </td>
