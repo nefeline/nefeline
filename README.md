@@ -2,7 +2,7 @@
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-nefeline-purple?logo=leetcode)](https://leetcode.com/nefeline/) -->
 
-Crafting exceptional e-commerce experiences as a Senior Software Engineer. I specialize in transforming business visions into reality through elegant code and innovative solutions.
+Crafting exceptional products as a Senior Software Engineer. I specialize in transforming business visions into reality through elegant code and innovative solutions.
 
 ## Tech Stack
 <table>
@@ -112,6 +112,6 @@ const technicalJourney = {
 -->
 ## Professional Commitment
 
-I believe in the perfect blend of technical excellence and business acumen. Whether it's optimizing a checkout flow or implementing AI-driven marketing solutions, I'm passionate about creating e-commerce experiences that drive real business growth.
+I believe in the perfect blend of technical excellence and business acumen. I'm passionate about creating great experiences that drive real growth.
 
 Let's connect and build something amazing together! 🌟
