@@ -33,20 +33,20 @@ My foundation is built on modern web development technologies, allowing me to cr
 </tr>
 </table>
 
-## Open-Source Contributions
+## Cloud & Infrastructure Expertise
 
 <table>
 <tr>
 <td width="50%">
 
-I've contributed to WordPress core and open source projects across the ecossystem including plugins such as Woo and The Events Calendar.
+I design and implement cloud-native applications and scalable infrastructure using leading platforms such as AWS, Firebase, and Supabase. My expertise spans serverless architectures, real-time databases and managed Postgres, containerization, and CI/CD pipelines to deliver reliable, high-performance solutions.
 
 </td>
 <td width="50%">
-
-[![WordPress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
-[![The Events Calendar](https://img.shields.io/badge/The%20Events%20Calendar-050B1B?logo=calendar&logoColor=white)](https://theeventscalendar.com/)
+    
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 </td>
 </tr>
@@ -66,6 +66,25 @@ With deep experience in major e-commerce platforms, I specialize in creating sea
 [![Liquid](https://img.shields.io/badge/liquid-7AB55C?logo=shopify&logoColor=white)](https://shopify.dev/docs/api/liquid)
 [![Hydrogen](https://img.shields.io/badge/Hydrogen-050B1B?logo=shopify&logoColor=white)](https://hydrogen.shopify.dev/)
 [![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
+
+</td>
+</tr>
+</table>
+
+## Open-Source Contributions
+
+<table>
+<tr>
+<td width="50%">
+
+I've contributed to WordPress core and open source projects across the ecossystem including plugins such as Woo and The Events Calendar.
+
+</td>
+<td width="50%">
+
+[![WordPress](https://img.shields.io/badge/wordpress-21759B?logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?logo=woocommerce&logoColor=white)](https://woocommerce.com/)
+[![The Events Calendar](https://img.shields.io/badge/The%20Events%20Calendar-050B1B?logo=calendar&logoColor=white)](https://theeventscalendar.com/)
 
 </td>
 </tr>
