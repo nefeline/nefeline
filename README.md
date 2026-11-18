@@ -1,4 +1,4 @@
-# Hello, I'm Patricia! 👋 
+# Hello! 👋 
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-nefeline-purple?logo=leetcode)](https://leetcode.com/nefeline/) -->
 
